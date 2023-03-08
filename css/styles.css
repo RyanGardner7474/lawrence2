@@ -1,0 +1,84 @@
+/* CSS Document */
+*, *:before, *:after {
+    box-sizing: inherit;
+    padding: 0;
+    margin:0;
+    border:0;
+}
+
+body {
+	background-color:#B9C3C999;
+}
+
+nav {
+	display:inline-block;
+	width:100%;
+	min-height:50px;
+	background-color:#C8D3DA;
+}
+
+.news {
+	margin-bottom: 300px;
+	color:#000128;
+}
+
+tr {
+	
+}
+
+th {
+	padding-right:200px;
+	border:2px solid #000000;
+}
+
+h1 {
+	font-weight:bold;
+	color:#000128;
+}
+
+li {
+	padding-left:20px;
+}
+
+ul {
+	text-align:center;
+	padding: 10px 10px;
+}
+
+ul li {
+	
+	display:inline-block;
+	width:15%;
+}
+
+a {
+	text-decoration: none;
+	color:#153047;
+	font-size:1.5em;
+	font-weight:bold;
+}
+
+p {
+	
+}
+
+.copyright {
+	font-size:0.6em;
+	font-weight:lighter;
+	background-color:#C8D3DA;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
